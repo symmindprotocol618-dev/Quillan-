@@ -1,0 +1,5 @@
+{
+  "name": "Quillan AGI Interface",
+  "description": "Interactive control dashboard for the Quillan v4.2 AGI repository, featuring architectural visualization, system metrics, and a direct neural interface.",
+  "requestFramePermissions": []
+}
